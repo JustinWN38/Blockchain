@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "noise",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week6/ex2.sol": "Cat"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week6/ex2.sol": {
+			"keccak256": "0x1ed3bc2619d2ced134ad85738aa45fe9770ce75d1fe163ff225b04ab247cd160",
+			"license": "GPL-2.0",
+			"urls": [
+				"bzz-raw://c25352d02ad1562fa1a6c3f3aceb35576d4a9e97e577ddaa69c6f3507947d317",
+				"dweb:/ipfs/QmaXbTYENdwv7aS6Y4RReVTKMCS7eZLE2eUmKbP3HkFLWT"
+			]
+		}
+	},
+	"version": 1
+}

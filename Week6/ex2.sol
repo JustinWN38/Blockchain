@@ -1,20 +1,18 @@
-
-//SPDX-License-Identifier: GPL2.0
+// SPDX-License-Identifier: GPL-2.0
 pragma solidity ^0.8.0;
 
 interface Animal {
-    function noise() external ______s(string memory);
+    function noise() external view returns (string memory);
 }
 
-________ Dog is ______ {
-    function _____() public ________ pure ______s(string memory){
-        ______ "Woof";
+contract Dog is Animal {
+    function noise() public pure override returns (string memory) {
+        return "Woof";
     }
 }
 
-________ Cat is ______{
-    function _____() public ________ pure ______s(string memory){
-        ______ "Miaow";
+contract Cat is Animal {
+    function noise() public pure override returns (string memory) {
+        return "Miaow";
     }
 }
-

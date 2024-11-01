@@ -1,0 +1,63 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"name": "display",
+				"type": "event"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "fallback"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week6/ex9.sol": "FB"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week6/ex9.sol": {
+			"keccak256": "0xb207bbadca0347996f45fb239a0c77e46bf76c024d175cbf48e9a87f9caf7aad",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4cb63b18a26729831e0fc34dcc19625116066f5176fe4a083416f0db60c18ca0",
+				"dweb:/ipfs/QmTG5NAkJq4MDvtp6LZ9azaj8iZrMACmEiRNEzvG6zKTuT"
+			]
+		}
+	},
+	"version": 1
+}

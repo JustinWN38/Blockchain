@@ -1,7 +1,7 @@
 pragma solidity ^0.8.28;
-______ "./strings.sol";
+using "./strings.sol";
 
-________ ex5{
+contract ex5{
     ____g strings for *;
     string public firstName="Ian";
     string public lastName="Mitchell";
