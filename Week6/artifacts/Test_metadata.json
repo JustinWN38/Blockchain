@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "testRectangle",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "testSquare",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Week6/ex1.sol": "Test"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Week6/ex1.sol": {
+			"keccak256": "0xd1c43948db4c588a6ab1cfb7c49ac5f4ddda2c5a22af5d8c214f5555efda0cec",
+			"license": "GPL2.0",
+			"urls": [
+				"bzz-raw://ce2a04557f160ae46912c5cb36571504c130fd0ed231e2e57ce1d24d1b5e1557",
+				"dweb:/ipfs/QmfWjxgud1iE1SVAc4HubRM4GbMKrBQ1U7a71JAhhCiQgf"
+			]
+		}
+	},
+	"version": 1
+}
