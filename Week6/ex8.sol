@@ -1,7 +1,7 @@
 //SPDX-License-Identifier:MIT
 pragma solidity >=0.8.0<=0.8.19;
 
-_________ SimpleToken{
+interface SimpleToken{
 	________ createAccount(address _account) ________; 
 	________ freezeAccount(address _account) ________;
 	________ isFrozen(address _account) ________ returns(bool);
