@@ -547,7 +547,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/week8.sol": "MyToken"
+			"Week8/ex2.sol": "MyToken"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -609,12 +609,12 @@
 				"dweb:/ipfs/Qmax9WHBnVsZP46ZxEMNRQpLQnrdE4dK8LehML1Py8FowF"
 			]
 		},
-		"contracts/week8.sol": {
-			"keccak256": "0x61fc88471d475be654baeb344a5027427414228e21a767d9b38d042309e09886",
+		"Week8/ex2.sol": {
+			"keccak256": "0x73252fc198787dc4c7ef65958fbf538412344c79d890c77ade597a010529e328",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://1e2c7614d53755a95f56c03b32a7078ae6ceb54889785d68d621899af065212c",
-				"dweb:/ipfs/QmSHofiC2b1Jno8EnmrEWjpdKCiaKcdtCU4kpjgbTP7GHd"
+				"bzz-raw://59018d26bdb3d1c3011481f4723e1875a4f519bbe12d6d2d37222f9d816dcf48",
+				"dweb:/ipfs/QmTCxPztMbKqtyBWc5nutYwUiKeG9v9XFkybp2fhRG5n8h"
 			]
 		}
 	},
